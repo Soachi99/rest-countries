@@ -1,0 +1,11 @@
+.flags-container{
+    margin-top: 50px;    
+    display: grid;   
+    grid-template-columns: repeat(4,1fr);   
+    
+}
+
+.flags{
+    margin:20px
+
+}
